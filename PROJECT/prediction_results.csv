@@ -1,0 +1,5 @@
+Entered Symptoms,Predicted Disease,Accuracy
+mild_fever,Chicken pox,0.9243902439024391
+"mild_fever, stomach_pain",Drug Reaction,0.9243902439024391
+"lack_of_concentration, unsteadiness",Hypertension ,0.9243902439024391
+"lack_of_concentration, unsteadiness, mild_fever",Hypertension ,0.9243902439024391
