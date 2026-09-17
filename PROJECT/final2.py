@@ -173,6 +173,5 @@ st.markdown("---")
 # 5️⃣ FOOTER
 # =======================
 st.caption("""
-**Developed by:** Manav Kumar, Diutimaya Mohanty, Mannat Murteza, Zara Ahemad  
-**Guided by:** Dr. Shweta R. Malwe & Mrs. Prachi Mehta
+**Developed by:** Anupam
 """)
