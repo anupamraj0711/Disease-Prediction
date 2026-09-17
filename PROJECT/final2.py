@@ -49,14 +49,13 @@ def train_or_load_model():
         # Save model and features
         joblib.dump(rf, MODEL_PATH)
         joblib.dump(selected_features, FEATURE_PATH)
-
     return rf, selected_features
 
 rf, selected_features = train_or_load_model()
 data = load_data()
 
 # =======================
-# 2️⃣ PAGE STYLING
+# 2️⃣ PAGE STYLE
 # =======================
 st.markdown("""
     <style>
