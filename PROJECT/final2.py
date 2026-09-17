@@ -173,5 +173,6 @@ st.markdown("---")
 # 5️⃣ FOOTER
 # =======================
 st.caption("""
-**Developed by:** Anupam
+**Developed by:** Anupam  
+**Guided by:** Dr. Shweta R. Malwe & Mrs. Prachi Mehta
 """)
